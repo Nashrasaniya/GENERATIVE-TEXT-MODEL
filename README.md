@@ -40,7 +40,7 @@ Ensure you have Python 3.8+ and run:
 
 Optional for Jupyter users:
 
-   pip install ipywidgets tqdm
+    pip install ipywidgets tqdm
 
 #  Download the Model (Manual Step)
 
@@ -122,3 +122,7 @@ Climate change is one of the most pressing challenges facing humanity today.
 # Internship Credit
 
 Completion of this task contributes to your Codtech Internship Certificate.
+
+# OUTPUT 
+
+![Image](https://github.com/user-attachments/assets/135d2197-8382-4846-9ca1-f1a96b32d311)
