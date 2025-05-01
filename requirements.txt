@@ -1,0 +1,4 @@
+transformers==4.40.1
+torch>=1.13.0
+ipywidgets>=7.6.0
+notebook
